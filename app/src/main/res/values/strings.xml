@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Markdown Reader</string>
+    <string name="import_folder">导入文件夹</string>
+    <string name="recent_files">最近打开</string>
+    <string name="library">书库</string>
+    <string name="empty_recent">暂无最近打开的 Markdown 文件</string>
+    <string name="empty_library">还没有导入文件夹</string>
+    <string name="back">返回</string>
+    <string name="include_subfolders">包含子目录</string>
+</resources>

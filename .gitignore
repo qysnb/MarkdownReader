@@ -1,0 +1,28 @@
+@'
+# Gradle
+.gradle/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Generated APK and signing artifacts
+*.apk
+*.aab
+*.idsig
+*.der
+
+# Temporary and generated reports
+captures/
+.externalNativeBuild/
+.cxx/
+*.log
+
+# Local agent/tool state
+.superpowers/
+.agents/
+'@ | Set-Content -LiteralPath ".gitignore" -Encoding utf8
